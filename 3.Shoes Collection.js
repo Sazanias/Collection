@@ -1,8 +1,8 @@
 var total_material = 5;
 var material_leftside = new Array();
-material_leftside[0] = '<img src="images2/bespoke-upholstered-baroque-armchair-ms9191p-custom-made-to-order-upholstery-options-fabric-material-sourced-by-millmax-poa-wood-finish-wood-stain-finish-2118-p.jpg">';
-material_leftside[1] = '<img src="images2/19521382_master.jpg">';
-material_leftside[2] = '<img src="images2/IMG_3992.jpg">';
+material_leftside[0] = '<img src="images2/Shoe.ornament.png">';
+material_leftside[1] = '<img src="images2/19-mens-dress-shoes.png">';
+material_leftside[2] = '<img src="images2/TD1722r.jpg">';
 
 
 
@@ -17,9 +17,9 @@ onload = function () { Random_LeftSide(); }
 
 var total_material = 5;
 var material_rightside = new Array();
-material_rightside[0] = '<img src="images2/Hay-Result-Chair-schwarz-Eiche-matt-lackiert.jpg">';
-material_rightside[1] = '<img src="images2/701_side_white-scaled.jpg">';
-material_rightside[2] = '<img src="images2/scandi-designs-soft-pad-crossed-dining-chair-black-p38406-2782161_image.jpg">';
+material_rightside[0] = '<img src="images2/Minimal Shoe.png">';
+material_rightside[1] = '<img src="images2/basic-shoe-staples-278182-1551890458307-product.700x0c.jpg">';
+material_rightside[2] = '<img src="images2/Minimal shoe22.png">';
 
 
 
