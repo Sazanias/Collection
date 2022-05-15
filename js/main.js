@@ -21,7 +21,7 @@ var pgal = {
         this.ny   = o.offsetTop; 
         this.nw   = o.offsetWidth; 
         this.nh   = o.offsetHeight; 
-        this.zoom = this.nh / 2200; 
+        this.zoom = this.nh / 3000; 
     }, 
     run : function () { 
         pgal.cx += (pgal.xm - pgal.cx) * .1; 
