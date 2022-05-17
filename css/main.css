@@ -26,7 +26,7 @@ html{ font-family: 'Smooch Sans', sans-serif;
 .example span {
     position: absolute;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     white-space: nowrap;
     left: -999px;
     background: white;

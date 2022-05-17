@@ -108,7 +108,7 @@ var pgal = {
                 pgal.S  = this; 
             } else { 
                 pgal.S   = 0; 
-                pgal.zt += 1600; 
+                pgal.zt += 500; 
             } 
         } 
     }
