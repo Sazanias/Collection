@@ -66,12 +66,29 @@ h1 {
    
       }
 
-    button {
-        font-size: 3em;
-        text-align: center;
-    }
+      button {
+        background-color: transparent;
+        font-size: 1.2em;
+        font-style: bold;
+        font-family: serif;
+        margin-top: 0.5%;
+        position: absolute;
+        border: none;
+        border-color: none;
+        color: blue;
+        padding: 0.5%;
+        top: 0.1vh;
+        text-decoration: none;
+        
+      }
 
+      .right { left: 92%;
 
+      } 
+
+      .left { left: 3%;
+
+      } 
 
 a{
   text-align: center;
